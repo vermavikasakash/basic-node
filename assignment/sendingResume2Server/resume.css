@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+div{
+    margin:2% 5% 0% 16%;
+    width: 53rem;
+    background-color: rgba(128, 128, 128, 0.135);
+}
+h4{
+    
+    text-align: center;
+    color: rgba(238, 130, 238, 0.872);
+}
+#name{
+    padding-top: 2rem;
+}
+h3{
+    color: rgba(238, 130, 238, 0.872); 
+}
+h3,p,li{
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+table{padding: 0px 10px 10px;}
+td, th {
+    border: 1px solid white;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
